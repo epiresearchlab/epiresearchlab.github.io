@@ -40,7 +40,7 @@ Meet the higher degree research students
 | **Kendalem Asmare** | PhD Candidate | Investigating trends and risk of prenatal and early life exposures on child development in Australia |
 | **Getaneh Baye Mulu** | PhD Candidate | Adverse Perinatal Outcomes in the Northern Territory: Evidence Synthesis, Risk Prediction, and Policy Recommendations |
 | **Daniel Gashaneh Belay** | PhD Candidate | TBA |
-| **Nandin-Erdene Bayart** | PhD Candidate | Ambient air pollution and cardiovascular disease in Mongolia |
+| **Juliana Ramos Carneiro** | PhD Candidate | Early life exposures and risk of adverse neurological outcomes|
 | **Almaw Genet Yeshiwas** | PhD Candidate | Wellbeing of children vulnerable to health disparities in Western Australia |
 | **Tomas Yeheyis Ferede** | PhD Candidate | TBA |
 | **Anna-Lisa Baker** | PhD Candidate | Integrative evidence on the effects of ambient temperature and air pollution on adverse perinatal outcomes |
